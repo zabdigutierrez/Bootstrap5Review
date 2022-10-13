@@ -1,0 +1,14 @@
+html,
+body{
+    height: 100%;
+    font-size: 1rem;
+}
+.gradient{
+ background: rgb(119,63,251);
+background: radial-gradient(circle, rgba(119,63,251,1) 1%, rgba(252,70,107,1) 71%);
+}
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    font-family: 'Roboto Condensed', sans-serif;
+}
